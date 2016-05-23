@@ -1,4 +1,4 @@
-# Video-to-audio-convertor
+# Video-to-audio-converter
 A python script to convert video files into mp3 audio files
 
 
