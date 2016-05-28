@@ -16,7 +16,7 @@ $ sudo apt-get install python3
 ### Usage:
 
 ```bash
-$ python video_to_audio.py <filename>
+$ python3 video_to_audio.py <filename>
 ```
 
 To fix: You can convert videos without any special characters in their names as of now. Need to fix it to accept any file name
