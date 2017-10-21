@@ -13,6 +13,12 @@ If you don't have Python 3 installed, you just need to install python3 package :
 $ sudo apt-get install python3
 ```
 
+### Clone:
+```bash
+$ git clone https://github.com/adityashrm21/Video-to-audio-converter
+$ cd ../Video-to-audio-converter
+```
+
 ### Usage:
 
 ```bash
