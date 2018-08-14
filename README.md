@@ -1,5 +1,5 @@
 # Video-to-audio-converter
-A python script to convert video files into mp3 audio files
+A python script to convert video files into mp3 audio files. As a heavy listener of music, I prefer keeping audio files on my phone than video files to consume less disk space. This tool helps in converting the video files present in my computer to mp3 audio files.
 
 
 ### Requirements:
