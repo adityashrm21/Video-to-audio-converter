@@ -43,3 +43,4 @@ def main():
 # install ffmpeg and/or lame if you get an error saying that the program is currently not installed 
 if __name__ == '__main__':
 	main()
+print("bhbah")
