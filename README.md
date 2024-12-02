@@ -24,3 +24,24 @@ $ cd ../Video-to-audio-converter
 ```bash
 $ python3 video_to_audio.py <filename>
 ```
+
+### Other Prerequisites
+Make sure you install ffmpeg (specially on Windows). You may encounter an error referred to ffmpeg not being installed 
+
+#### macOS:
+Install FFmpeg using Homebrew:
+```
+brew install ffmpeg
+```
+#### Linux:
+Install FFmpeg using the package manager for your distribution. For example, on Ubuntu, you would run:
+
+```
+sudo apt-get update
+sudo apt-get install ffmpeg
+```
+ #### Verify FFmpeg Installation
+```
+ffmpeg -version
+
+```
